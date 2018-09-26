@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SPICE</string>
+    <string name="next_layout_button">Next Layout</string>
+    <string name="previous_layout_button">Previous Layout</string>
+    <string name="first_layout_text">First layout</string>
+    <string name="second_layout_text">Second layout</string>
+</resources>
